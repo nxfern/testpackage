@@ -9,7 +9,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="nxfern2",
-    version="1.0",
+    version="1.1",
     author="Nicolas Fernandez",
     author_email="",
     description="Demo package",
